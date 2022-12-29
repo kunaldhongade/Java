@@ -1,0 +1,4 @@
+
+// Use code in Command prompt
+
+C:\Users\HP\Desktop\java_program>javap -c ArmstrongString

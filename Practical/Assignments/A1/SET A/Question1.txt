@@ -1,0 +1,8 @@
+//Use commands in command prompt.
+
+1] java.lang.Object;
+
+2] java.lang.String;
+
+3] java.util.Scanner;
+
